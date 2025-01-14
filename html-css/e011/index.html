@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmina</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="imgs/P.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imgs/M.png" type="image/png">
+        <img src="imgs/G.png" alt="imagem flexivel">
+    </picture>
+    <h1>Áudio</h1>
+    <audio preload="metadata" controls>
+        <source src="../e012/midia/bonk.mp3" type="audio/mp3">
+    </audio>
+    <h1>Vídeo</h1>
+</body>
+</html>
