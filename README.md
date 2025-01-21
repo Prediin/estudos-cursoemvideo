@@ -7,4 +7,7 @@
 <main>
   <p>LISTA DE EXERCÍCIOS:</p>
   <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio010/index.html" target="_blank">Acessar desafio 010 completo</a>
+  <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio009/index.html">Acessar desafio 009</a>
+  <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio008/index.html">Acessar desafio 006</a>
+  <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio005/index.html">Acessar desafio 005</a>
 </main>
