@@ -58,20 +58,45 @@ section {
     font-size: 3.5vw;
 }
 
+section > p {
+    padding-bottom: 2em;
+}
+
 section.normal {
     background-color: white;
     color: black;
+    background-image: url('imagens/tex_papel.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+section.normal > p {
+    text-shadow: 0px 0px 5px rgba(1, 0, 20, 0.222);
 }
 
 section.imagem {
     background-color: rgb(26, 24, 33);
     color: white;
+    box-shadow: inset 1px 1px 30px 1px rgba(5, 0, 28, 0.451);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 section.imagem > p {
-    background-color: rgba(3, 0, 25, 0.458);
+    background-image:linear-gradient(to right, rgba(2, 0, 19, 0.558), transparent) ;
     display: inline-block;
     padding: 5px;
+    text-shadow: 0px 0px 10px rgb(2, 0, 16);
+}
+
+section#img01 {
+    background-image: url('imagens/background001.jpg');
+    background-position: right center;
+}
+
+section#img02 {
+    background-image: url('imagens/background002.jpg');
+    background-position: right center;
 }
 
 footer {
