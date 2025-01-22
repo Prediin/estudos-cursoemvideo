@@ -103,5 +103,19 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 10px 10px 8vh 10px;
+}
+
+footer > a > img {
+    border-radius: 50%;
+    width: 8vh;
+}
+
+footer > a > img#predo {
+    float: left;
+    transition: all 150ms ease-in-out;
+}
+
+footer > a > img#predo:hover {
+    box-shadow: 0px 0px 20px 1px white;
 }
