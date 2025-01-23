@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 400px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+tr.linha {
+    background-color: lightgray;
+}
+
+td.dado {
+    background-color: rgb(255, 246, 118);
+}
