@@ -6,17 +6,16 @@ body {
 
 table {
     width: 400px;
+    height: 400px;
     border-collapse: collapse;
 }
 
 td {
     border: 1px solid black;
+    text-align: left; /* ALINHAMENTO HORIZONTAL*/
+    vertical-align: middle;
 }
 
-tr.linha {
-    background-color: lightgray;
-}
-
-td.dado {
-    background-color: rgb(255, 246, 118);
+.numero {
+    text-align: right;
 }
