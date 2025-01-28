@@ -11,4 +11,5 @@
   <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio008/index.html">Acessar desafio 006</a><br>
   <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio005/index.html">Acessar desafio 005</a><br>
   <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/desafio012/index.html">Acessar desafio 012</a><br>
+  <a href="https://prediin.github.io/estudos-cursoemvideo/html-css/e026/index.html">Acessar Tabelas</a><br>
 </main>
